@@ -4,7 +4,7 @@ mespuntjesperkomkommer = 1
 versedillen = 15 * aantalkomkommers
 tenenknoflook = 2 * aantalkomkommers
 
-griekseyogurt = 500 * aantalkomkommers
+griekseyogurt = 30 * aantalkomkommers
 wittewijnazijn = 1 * aantalkomkommers
 eetlepelextraviergeolijfolie = 3 * aantalkomkommers
 
