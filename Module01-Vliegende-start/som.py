@@ -18,3 +18,8 @@ p       eeeeeeeee    d       d
 p       e            d      d
 p       eeeeeeeee    d  d d
  """)
+
+
+
+x , z , y = 50
+
